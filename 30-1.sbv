@@ -1,0 +1,502 @@
+0:00:00.080,0:00:03.220
+Chapter 30: Sources of the Magnetic Field
+
+0:00:03.220,0:00:07.500
+in the previous chapter we introduced the
+concept of the magnetic field
+
+0:00:07.500,0:00:10.900
+and we focused our attention on the
+
+0:00:10.900,0:00:15.120
+magnetic field exerting a magnetic
+force on a moving charge or a current
+
+0:00:15.120,0:00:18.330
+and we looked at various examples of
+
+0:00:18.330,0:00:21.340
+the magnetic force.  But in this chapter,
+
+0:00:21.340,0:00:25.100
+we're gonna ask the following question: What causes a magnetic field,
+
+0:00:25.100,0:00:28.230
+and how does it do that? Well, we
+know
+
+0:00:28.230,0:00:31.460
+from the previous chapter from Oersted's
+experiment
+
+0:00:31.460,0:00:36.600
+that an electrical current
+or a moving electrical charge
+
+0:00:36.600,0:00:40.100
+can cause a magnetic field but we didn't address how this is done.
+
+0:00:40.100,0:00:43.860
+What kind of, given a current or given
+a charged particle,
+
+0:00:43.860,0:00:46.900
+what kind of magnetic field can it produce?
+
+0:00:46.940,0:00:50.160
+This is the question answered in this chapter.
+
+0:00:50.160,0:00:53.600
+So, electrical current causing a magnetic field
+
+0:00:53.600,0:00:56.800
+but exactly how does it do that?
+
+0:00:56.800,0:01:00.300
+We can focus on a single moving charge, or we can focus on
+
+0:01:00.370,0:01:03.410
+a segment of the current.
+
+0:01:03.410,0:01:07.710
+Each single moving charge in the segment
+current will produce its own magnetic field.
+
+0:01:08.300,0:01:11.720
+So if you look at an infinitely long segment
+
+0:01:11.720,0:01:14.840
+there will be an infinite number of charge carriers
+
+0:01:14.840,0:01:18.500
+each producing a magnetic field that could lead to an infinitely large "B" field.
+
+0:01:22.280,0:01:26.799
+What we're going to do is isolate an infinitesimally small segment
+
+0:01:26.799,0:01:30.090
+of the current out and look at how this small
+segment
+
+0:01:30.090,0:01:34.070
+can produce a magnetic field, and later
+on if you wanna know
+
+0:01:34.070,0:01:38.250
+the magnitude at this point coming
+from all segments
+
+0:01:38.250,0:01:41.450
+on the current all you have to do is to add the
+contributions up
+
+0:01:41.450,0:01:44.520
+by the superposition principal
+
+0:01:44.520,0:01:47.900
+We're going to isolate this little current element.
+It is analogous to
+
+0:01:47.900,0:01:52.189
+a single point charge producing
+an electric field.  We want to know:
+
+0:01:52.189,0:01:56.100
+how does this element of current produce
+a magnetic field at a point P?
+
+0:01:59.100,0:02:04.979
+In the case of electric fields, the source was just a point charge
+
+0:02:04.979,0:02:08.300
+and all we had to know was where it is
+
+0:02:08.300,0:02:11.930
+and the amount of charge Q, but this time we have a
+
+0:02:11.930,0:02:16.200
+current element.  Now not only do we have to know where it is,
+
+0:02:16.200,0:02:19.980
+you know, vector displacement between the
+source
+
+0:02:19.980,0:02:25.600
+and the point of interest, we also have to know the orientation of this element
+
+0:02:25.600,0:02:28.500
+because it makes a difference when a current flows
+
+0:02:28.500,0:02:32.500
+in one way or another.
+
+0:02:32.500,0:02:36.580
+We have here, a vector ds which is the
+
+0:02:36.580,0:02:40.480
+displacement vector from the beginning of the element to the end of the element.
+
+0:02:40.480,0:02:43.900
+A current flows along ds and ds
+
+0:02:43.900,0:02:47.519
+is along the direction of the current flow.
+
+0:02:47.519,0:02:51.810
+We want to know: what is the magnetic field at point P?
+
+0:02:51.810,0:02:55.590
+This magnetic field is infinitesimally small because it is produced
+
+0:02:55.590,0:02:59.950
+by infinitesimally small segments
+
+0:02:59.950,0:03:03.280
+So we're looking for dB.  What is dB equal to?
+
+0:03:03.280,0:03:07.050
+dB is a vector that depends on two other vectors.  One is ds and the other is r.
+
+0:03:07.050,0:03:10.470
+We've seen something like that
+before in the previous chapter.
+
+0:03:10.470,0:03:13.500
+The magnetic force
+
+0:03:13.500,0:03:17.560
+exerted on a movie charge was a
+function of two
+
+0:03:17.560,0:03:21.390
+other vectors, one was the
+
+0:03:21.390,0:03:24.480
+the velocity of the moving charge and the
+other was B, the magnetic field.
+
+0:03:24.480,0:03:27.849
+We argued by symmetry
+
+0:03:27.849,0:03:31.000
+at that time that the resultant vector F, the
+
+0:03:31.000,0:03:39.100
+magnetic force, has to be perpendicular
+to both v and B.
+
+0:03:39.100,0:03:42.799
+Now in our case, we have a magnetic field dB
+
+0:03:42.799,0:03:46.010
+which depends on two factors: ds and r.
+
+0:03:46.010,0:03:49.180
+Can we make a similar argument
+
+0:03:49.180,0:03:53.390
+to indicate a direction of dB?  It turns
+out,
+
+0:03:53.390,0:03:56.459
+yes, we can do that.  The argument is totally
+
+0:03:56.459,0:04:00.000
+analogous to what we did in the previous chapter.
+
+0:04:00.700,0:04:04.680
+Basically reverse ds and r and see what happens, and that is equivalent to rotating the whole thing by
+
+0:04:04.680,0:04:06.140
+180 degrees and so on, so forth.
+
+0:04:06.140,0:04:09.720
+You can do that argument yourself and you'll
+find
+
+0:04:09.720,0:04:15.340
+that because of symmetry the magnetic
+field at point P
+
+0:04:15.340,0:04:19.320
+has to be perpendicular to both vectors ds and r.
+
+0:04:19.320,0:04:23.419
+In other words, it will be in direction ds x r
+
+0:04:23.419,0:04:26.850
+or r x ds.  Which one do we pick?
+
+0:04:26.850,0:04:30.210
+That is entirely due to convention, it's how we define
+
+0:04:30.210,0:04:33.250
+the magnetic field, the positive direction magnetic field.
+
+0:04:33.250,0:04:36.840
+It's not a surprise to see that
+
+0:04:36.840,0:04:40.440
+dB is proportional to ds x r
+
+0:04:43.570,0:04:46.710
+as far as the direction is concerned.
+
+0:04:46.710,0:04:50.660
+Also, it's easy to understand the magnetic
+field should be
+
+0:04:50.660,0:04:54.340
+proportional to the current because if I 
+double the current, then I have twice as
+
+0:04:54.340,0:04:55.650
+many moving charges here.
+
+0:04:55.650,0:04:58.970
+Each can produce a certain amount of magnetic field here
+
+0:04:58.970,0:05:02.250
+so the value of dB will be doubled.
+
+0:05:02.250,0:05:05.570
+So, it is proportional to I.
+
+0:05:05.570,0:05:09.639
+Another thing, how does it depend on distance?
+
+0:05:09.639,0:05:14.080
+In the case of Gauss' law,
+
+0:05:14.080,0:05:17.500
+we know that it is an inverse square of Coulomb's law that makes Gauss' law unique
+
+0:05:17.500,0:05:20.500
+so in the case of an electric field produced by point charge,
+
+0:05:20.500,0:05:25.660
+the field goes down by 1/r^2, the famous inverse square law.
+
+0:05:25.660,0:05:28.880
+Do we have the same situation here?  Well
+
+0:05:28.880,0:05:32.310
+electricity and magnetism, they go hand-in-hand
+
+0:05:32.310,0:05:35.449
+so it is still quite easy to
+
+0:05:35.449,0:05:38.699
+understand, at least quantitatively, that we have the same
+
+0:05:38.699,0:05:42.009
+inverse square law here for for the magnetic
+field as well.
+
+0:05:42.009,0:05:46.389
+It also is going to be over r^2.
+
+0:05:46.389,0:05:49.740
+We didn't derive this but we just try to
+
+0:05:49.740,0:05:52.780
+make it sound plausible, that's all.
+
+0:05:52.780,0:05:56.620
+So it turns out dB is equal to Ids x r over r^2
+
+0:05:56.620,0:06:00.190
+and this r, as you see, with this "cap", it is only
+
+0:06:00.190,0:06:05.590
+the unit vector, which has magnitude of one.
+So it's 1/r^2 as far as distance is concerned.
+
+0:06:05.590,0:06:09.650
+To make it equal we have to deduce a constant "K"
+
+0:06:09.650,0:06:13.139
+and that K has to use magnetism, not electricity so we use a subscript "m"
+
+0:06:13.139,0:06:17.710
+to indicate this has to do with a magnetic field.
+
+0:06:17.710,0:06:21.500
+That completes the expression for dB.
+
+0:06:21.500,0:06:26.090
+This expression tells us how to find
+a magnetic field
+
+0:06:26.090,0:06:30.569
+of a current element.  It is analogous the Coulomb's law
+
+0:06:30.569,0:06:33.870
+which tells how to find the electric field
+produced by
+
+0:06:33.870,0:06:37.150
+a point charge.  So we use a current element
+
+0:06:37.150,0:06:41.160
+to replace an electric charge in producing a magnetic field.
+
+0:06:41.160,0:06:44.800
+And here, this k_m,
+
+0:06:44.800,0:06:52.700
+is equal to exactly 10^-7 Tesla times meter over amp.
+
+0:06:52.770,0:06:57.020
+The units are quite straightforward to understand because you have to balance the units on both sides.
+
+0:06:57.020,0:06:58.280
+Here is Tesla,
+
+0:06:58.280,0:07:02.569
+and here is a meter and a meter squared so overall there's a meter going over
+
+0:07:02.569,0:07:06.120
+and then I, which is amp, goes down like that.
+
+0:07:06.120,0:07:10.620
+Now why is it equal to exactly 10^-7? No more, no less?
+
+0:07:10.620,0:07:14.900
+Well, it's because how we define Tesla, see Tesla is a new unit
+
+0:07:14.900,0:07:18.120
+and the way we defined Tesla
+
+0:07:18.120,0:07:21.330
+is based on the choice of this constant K
+
+0:07:21.330,0:07:25.000
+so we could choose the constant K to be any value we want, we can even choose it to be 1.
+
+0:07:25.000,0:07:28.180
+But that was not the convention people adopted.
+
+0:07:28.180,0:07:33.590
+And just like the case where, in the Coulomb's law, you have k_e which is defined as
+
+0:07:33.590,0:07:36.000
+1/(4*pi*epsilon-naught), remember that?
+
+0:07:36.300,0:07:41.700
+Here we also define k_m as another constant mu-naught over 4pi
+
+0:07:41.770,0:07:45.180
+and that mu-naught, of course, that becomes 4pi * 10^-7
+
+0:07:45.180,0:07:48.789
+in SI units, and it is called the "permeability
+
+0:07:48.789,0:07:52.949
+of free space", so there is a fundamental
+constant here
+
+0:07:52.949,0:07:56.030
+mu-naught, given that we could find k_m.
+
+0:07:56.030,0:07:59.759
+So we have two fundamental constants we
+learned so far
+
+0:07:59.759,0:08:03.539
+in physics 1C.  One was epsilon-naught,
+
+0:08:03.539,0:08:09.590
+that is for electric field.  The other is mu-naught, that's for the magnetic field.
+
+0:08:09.590,0:08:12.870
+We'll come back to these two constants
+later and we'll see how we can combine them to
+
+0:08:12.870,0:08:14.879
+do something magical.
+
+0:08:14.879,0:08:18.310
+But let's go back to this formula.
+
+0:08:18.310,0:08:21.759
+This is, again, analogous to Coulomb's law.
+
+0:08:21.759,0:08:25.139
+It has the same importance in the
+
+0:08:25.139,0:08:28.319
+calculation magnetic field as Coulomb's law is
+
+0:08:28.319,0:08:32.620
+to the case of the electric field.  It is called the Biot-Savart law.
+
+0:08:32.620,0:08:37.900
+And again, the electrical charge in the case of Coulomb's law is replaced
+
+0:08:37.950,0:08:41.680
+with the current element.
+
+0:08:41.680,0:08:45.870
+Now this is only the alleged
+
+0:08:45.870,0:08:49.330
+magnetic field produced by a current element.
+What if you have
+
+0:08:49.330,0:08:52.959
+a finite length segment, say, from here to there.
+
+0:08:52.959,0:08:56.390
+What is the total magnetic field produced by this entire segment?
+
+0:08:56.390,0:09:00.720
+Well, remember we went from a single point charge
+
+0:09:00.720,0:09:04.149
+to a bunch of charges in any charge distribution?
+
+0:09:04.149,0:09:07.610
+The key was to use the so-called "linear superposition" principle.
+
+0:09:07.610,0:09:13.200
+It turns out the same principle
+applies here in the case of a magnetic field
+
+0:09:13.269,0:09:16.320
+which means if you have a whole bunch of
+
+0:09:16.320,0:09:21.070
+current elements, not just one, then
+the superposition principle says that
+
+0:09:21.070,0:09:24.330
+you can calculate dB created by each element as if the
+
+0:09:24.330,0:09:27.529
+other segments do not exist, just like this,
+
+0:09:27.529,0:09:30.950
+and then all we have to do is add them up linearly so just
+
+0:09:30.950,0:09:34.839
+db1 + db2 + db3 and so on.  You'll get a total magnetic field.
+
+0:09:34.839,0:09:42.600
+So, again, the same linear superposition principle applies to the B field,
+
+0:09:42.680,0:09:46.080
+not just the E field.
+
+0:09:46.080,0:09:54.900
+In other words, B of a finite current distribution, is just the sum over dB
+
+0:09:54.940,0:09:58.080
+Just the sum over dB.  You just sum the
+
+0:09:58.080,0:10:01.990
+contribution from every current element of the entire source.
+
+0:10:01.990,0:10:05.410
+That's how you go from a current element to any current distribution.
+
